@@ -1,5 +1,5 @@
 <?php
-$servername = "localhost";
+$servername = "127.0.0.1";
 $username = "root";  // Ajusta si tienes otro usuario
 $password = ""; // Si XAMPP usa contraseña, añádela aquí
 $dbname = "esp32_db";
